@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.png
 heroAlt: Logo image
-heroText: Hero Title
+heroText: RED MF
 tagline: Hero subtitle
 actionText: Get Started
 actionLink: /guide/
