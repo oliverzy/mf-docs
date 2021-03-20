@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'RED MF - 小红书微前端解决方案',
+  title: 'RED MF - 微前端解决方案',
   description:
     'RED MF是一个集成了微前端研发、构建、部署、上线、运维全流程的解决方案，使你能够轻松在你的B端项目中落地微前端，我们的Slogan是Make MF Painless & Scalable！',
   home: true,

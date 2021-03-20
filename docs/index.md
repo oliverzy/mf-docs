@@ -4,7 +4,7 @@ heroImage: /logo.jpg
 heroAlt: Logo image
 heroText: RED MF
 tagline: Make MF Painless & Scalable
-actionText: Get Started
+actionText: Get Started →
 actionLink: https://xiaohongshu.quip.com/jvpoAXzQqGt9/RED-MF-User-Guide
 features:
   - title: Highly Developer Focus
