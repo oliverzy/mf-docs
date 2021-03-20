@@ -5,7 +5,7 @@ heroAlt: Logo image
 heroText: RED MF
 tagline: Make MF Painless & Scalable
 actionText: Get Started
-actionLink: /guide/
+actionLink: https://xiaohongshu.quip.com/jvpoAXzQqGt9/RED-MF-User-Guide
 features:
   - title: Highly Developer Focus
     details: Minimal Local development setup & highly efficient CI/CD pipeline with monorepo project structure helps you focus on devloping instead of infrastructure.

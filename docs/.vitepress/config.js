@@ -6,7 +6,10 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'RED MF Console', link: 'https://mf.devops.xiaohongshu.com' },
-      { text: 'User Guide', link: '/guide/' },
+      {
+        text: 'User Guide',
+        link: 'https://xiaohongshu.quip.com/jvpoAXzQqGt9/RED-MF-User-Guide',
+      },
       {
         text: 'PR FAQ',
         link: 'https://xiaohongshu.quip.com/OEO6Aa7qVLgj/RED-MF-PR-FAQ',
