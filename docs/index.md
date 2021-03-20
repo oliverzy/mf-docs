@@ -8,7 +8,7 @@ actionText: Get Started
 actionLink: /guide/
 features:
   - title: Dev Experience Focus
-    details: Minimal Local development & efficient CI/CD pipeline with monorepo project structure helps you focus on devloping rather than the infrastructure.
+    details: Minimal Local development setup & efficient CI/CD pipeline with monorepo project structure helps you focus on devloping rather than the infrastructure.
   - title: Great User Experience
     details: Use Microfrontends architecture style without any compromise on the user experience via highly configurable module sharing technique.
   - title: Scalable Management
