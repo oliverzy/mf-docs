@@ -7,8 +7,8 @@ tagline: Make MF Painless & Scalable
 actionText: Get Started
 actionLink: /guide/
 features:
-  - title: Dev Experience Focus
-    details: Minimal Local development setup & efficient CI/CD pipeline with monorepo project structure helps you focus on devloping instead of infrastructure.
+  - title: Highly Developer Focus
+    details: Minimal Local development setup & highly efficient CI/CD pipeline with monorepo project structure helps you focus on devloping instead of infrastructure.
   - title: Great User Experience
     details: With highly configurable module sharing technology, user experience will not be impacted by using Microfrontends architecture style.
   - title: Scalable Management
