@@ -1,17 +1,17 @@
 ---
 home: true
-heroImage: /logo.png
+heroImage: ./logo.jpg
 heroAlt: Logo image
 heroText: RED MF
-tagline: Hero subtitle
+tagline: Make MF Painless & Scalable
 actionText: Get Started
 actionLink: /guide/
 features:
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Vue-Powered
-    details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-  - title: Performant
-    details: VitePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright © 2019-present Evan You
+  - title: Dev Experience Focus
+    details: Minimal Local development & efficient CI/CD pipeline with monorepo project structure helps you focus on devloping rather than the infrastructure.
+  - title: Great User Experience
+    details: Use Microfrontends architecture style without any compromise on the user experience via highly configurable module sharing technique.
+  - title: Scalable Management
+    details: No matter how many subapps your project is divided, you can manage them as a whole and in one place. No need to manually maintain the relationship between shell and subapps
+footer: Copyright © 2021-present 商业部/商业产品技术部/投放技术组 xiake@xiaohongshu.com
 ---
