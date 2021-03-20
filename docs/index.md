@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: ./logo.jpg
+heroImage: /logo.jpg
 heroAlt: Logo image
 heroText: RED MF
 tagline: Make MF Painless & Scalable
